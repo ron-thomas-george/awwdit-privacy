@@ -16,4 +16,4 @@ Third parties
 Awwdit does not send any data to third parties, external servers, or analytics services. The extension runs offline once installed.
 
 Contact
-If you have privacy-related questions, contact: ronthomasgeorge@gmail.com.
+If you have privacy-related questions, contact: hello@awwdits.com.
